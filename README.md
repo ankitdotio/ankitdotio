@@ -1,5 +1,18 @@
 ## Hi there 👋
-![snake gif](https://github.com/ankitdotio/ankitdotio/blob/output/github-snake-dark.svg)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/ankitdotio/ankitdotio/output/pacman-contribution-graph-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/ankitdotio/ankitdotio/output/pacman-contribution-graph.svg"
+  />
+  <img
+    alt="Pacman contribution graph"
+    src="https://raw.githubusercontent.com/ankitdotio/ankitdotio/output/pacman-contribution-graph.svg"
+  />
+</picture>
 <!--
 **ankitdotio/ankitdotio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
